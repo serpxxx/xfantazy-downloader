@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Xfantazy Downloader keeps downloads predictable for editors and viewers who have permission to access Xfantazy content. It captures the source files directly, preserving quality, performer tags, and timestamps.\n\nUse it to organize private libraries, hand off clips to collaborators, or prep travel drives without depending on streaming access.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "xfantazy-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Xfantazy Downloader",
+  "version": "0.0"
+}
