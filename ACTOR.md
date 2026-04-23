@@ -1,4 +1,4 @@
-# XFantazy Downloader (Browser Extension)
+# XFantazy Downloader
 
 > Download supported XFantazy videos as MP4 files from the browser with direct quality selection.
 
