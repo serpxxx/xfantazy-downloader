@@ -1,10 +1,10 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Xfantazy Downloader keeps downloads predictable for editors and viewers who have permission to access Xfantazy content. It captures the source files directly, preserving quality, performer tags, and timestamps.\n\nUse it to organize private libraries, hand off clips to collaborators, or prep travel drives without depending on streaming access.",
+  "description": "XFantazy Downloader helps users save accessible videos for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
-  "name": "xfantazy-downloader",
+  "name": "xfantazy-video-downloader",
   "readme": "../ACTOR.md",
-  "title": "Xfantazy Video Downloader | How to Download Xfantazy Videos",
+  "title": "XFantazy Video Downloader | How to Download XFantazy Videos",
   "version": "0.0"
 }
