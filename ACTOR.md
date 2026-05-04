@@ -1,6 +1,10 @@
-# XFantazy Downloader
+# Xfantazy Video Downloader | How to Download Xfantazy Videos
 
 > Download supported XFantazy videos as MP4 files from the browser with direct quality selection.
+
+## Get it Here
+
+Get it here: https://serp.ly/xfantazy-downloader
 
 ![Xfantazy Downloader](https://raw.githubusercontent.com/serpxxx/xfantazy-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ XFantazy Downloader is a browser extension for users who want a cleaner way to s
 - Save finished files as standard MP4
 - Use in-page controls, popup controls, or right-click actions
 - Keep downloads organized in a dedicated folder
-
-## Get it Here
-
-Get it here: https://serp.ly/xfantazy-downloader
-
 ## Table of Contents
 
 - [Why XFantazy Downloader](#why-xfantazy-downloader)
